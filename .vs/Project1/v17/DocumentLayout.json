@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prac4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prac3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prac1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prea2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0ADF030-4C91-4079-8B14-7D6AA8A09D06}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prea2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "prac4.cpp",
+              "DocumentMoniker": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac4.cpp",
+              "RelativeDocumentMoniker": "Project1\\prac4.cpp",
+              "ToolTip": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac4.cpp*",
+              "RelativeToolTip": "Project1\\prac4.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T10:53:27.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prac3.cpp",
+              "DocumentMoniker": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac3.cpp",
+              "RelativeDocumentMoniker": "Project1\\prac3.cpp",
+              "ToolTip": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac3.cpp",
+              "RelativeToolTip": "Project1\\prac3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T08:39:39.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pointer.cpp",
+              "DocumentMoniker": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\Pointer.cpp",
+              "RelativeDocumentMoniker": "Project1\\Pointer.cpp",
+              "ToolTip": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\Pointer.cpp",
+              "RelativeToolTip": "Project1\\Pointer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T07:31:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "prea2.cpp",
+              "DocumentMoniker": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prea2.cpp",
+              "RelativeDocumentMoniker": "Project1\\prea2.cpp",
+              "ToolTip": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prea2.cpp",
+              "RelativeToolTip": "Project1\\prea2.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T05:49:34.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "prac1.cpp",
               "DocumentMoniker": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac1.cpp",
               "RelativeDocumentMoniker": "Project1\\prac1.cpp",
               "ToolTip": "C:\\Users\\codingon\\source\\repos\\kimjaehyeon0527\\KDT_SmartFactory5th\\Project1\\Project1\\prac1.cpp",
               "RelativeToolTip": "Project1\\prac1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-24T08:29:23.02Z",
               "EditorCaption": ""
